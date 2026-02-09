@@ -71,6 +71,10 @@ This project is a mini e-commerce application designed to demonstrate clean code
 *(Responsive view or checkout summary section)*
 ![Checkout](5.png)
 
+**6. Docker Containers**
+*(Terminal execution proving all services are up and running via Docker Compose)*
+![Docker Running](docker.png)
+
 ---
 
 ## 📂 Project Structure
